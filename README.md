@@ -49,7 +49,7 @@ The dataset includes the following key features:
 - **Daily Order Trends**: Analysis of order patterns across different weekdays.
 - **Top Cuisine Preferences**: Identifying the most popular cuisines in Delhi.
 - **Order Value Distribution**: Understanding the range and frequency of order values.
-- **Peak Hour Analysis**: Highlighting the busiest order times.
+- **Peak Hour Analysis**: Highlighting the busiest order times.\
   ![BarChart](./1.png)
 - **Payment Method Distribution**: Breakdown of cash versus online payments.
 
