@@ -59,6 +59,16 @@ The dataset includes the following key features:
  
   ![](./3.png)
 
+  **Impact of Discounts on Order Value**:
+
+  ![](./5.png)
+
+  **Delivery Time Distribution**:
+
+  ![](./4.png)
+
+  
+
 ## How to Run the Project
 
 1. Clone the repository:
